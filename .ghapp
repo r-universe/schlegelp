@@ -1,0 +1,10 @@
+{
+  "id": 145434172,
+  "created_at": "2026-07-09T12:10:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["fastcore-rs", "schlegelp.r-universe.dev"]
+}
