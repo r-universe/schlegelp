@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/schlegelp/schlegelp.r-universe.dev
 	branch = HEAD
+[submodule "nat.fastcore"]
+	path = nat.fastcore
+	url = https://github.com/schlegelp/fastcore-rs
+	subdir = R/nat.fastcore
